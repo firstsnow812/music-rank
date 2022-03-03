@@ -1,0 +1,406 @@
+{
+  "genie": [
+    [
+      {
+        "rank": "1",
+        "title": "듣고싶을까",
+        "singer": "MSG워너비 (M.O.M)",
+        "album": "듣고 싶을까",
+        "publishing": "지니뮤직, Stone Music Entertainment",
+        "agency": "문화방송"
+      },
+      {
+        "rank": "2",
+        "title": "사랑은늘도망가",
+        "singer": "임영웅",
+        "album": "신사와 아가씨 OST Part.2",
+        "publishing": "NHN벅스",
+        "agency": "모스트콘텐츠"
+      },
+      {
+        "rank": "3",
+        "title": "어제처럼",
+        "singer": "폴킴",
+        "album": "어제처럼",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "메모리즈 프로젝트"
+      },
+      {
+        "rank": "4",
+        "title": "노래(TheSong)",
+        "singer": "비투비",
+        "album": "Be Together",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "rank": "5",
+        "title": "INVU",
+        "singer": "태연 (TAEYEON)",
+        "album": "INVU - The 3rd Album",
+        "publishing": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "rank": "6",
+        "title": "이제나만믿어요",
+        "singer": "임영웅",
+        "album": "내일은 미스터트롯 우승자 특전곡",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN"
+      },
+      {
+        "rank": "7",
+        "title": "취중고백",
+        "singer": "김민석 (멜로망스)",
+        "album": "취중고백",
+        "publishing": "워너뮤직",
+        "agency": "프로젝트 리본"
+      },
+      {
+        "rank": "8",
+        "title": "다시사랑한다면(김필Ver.)",
+        "singer": "임영웅",
+        "album": "사랑의 콜센타 PART56",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN, ㈜쇼플레이"
+      },
+      {
+        "rank": "9",
+        "title": "별빛같은나의사랑아",
+        "singer": "임영웅",
+        "album": "별빛 같은 나의 사랑아",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "티조컬처앤컨텐츠, 뉴에라프로젝트, 물고기뮤직"
+      },
+      {
+        "rank": "10",
+        "title": "그대라는사치",
+        "singer": "임영웅",
+        "album": "사랑의 콜센타 PART62",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN, ㈜쇼플레이"
+      },
+      {
+        "rank": "11",
+        "title": "끝사랑",
+        "singer": "임영웅",
+        "album": "사랑의 콜센타 PART61",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN, ㈜쇼플레이"
+      },
+      {
+        "rank": "12",
+        "title": "HERO",
+        "singer": "임영웅",
+        "album": "HERO",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "티조컬처앤컨텐츠, 뉴에라프로젝트"
+      },
+      {
+        "rank": "13",
+        "title": "잊었니",
+        "singer": "임영웅",
+        "album": "사랑의 콜센타 PART60",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN, ㈜쇼플레이"
+      },
+      {
+        "rank": "14",
+        "title": "abcdefu",
+        "singer": "GAYLE",
+        "album": "abcdefu",
+        "publishing": "워너뮤직",
+        "agency": "Atlantic, Arthouse Records"
+      },
+      {
+        "rank": "15",
+        "title": "BkLove",
+        "singer": "임영웅",
+        "album": "뽕숭아학당 PART23",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN, ㈜쇼플레이"
+      },
+      {
+        "rank": "16",
+        "title": "계단말고엘리베이터",
+        "singer": "임영웅",
+        "album": "계단말고 엘리베이터",
+        "publishing": "뮤직앤뉴",
+        "agency": "물고기뮤직"
+      },
+      {
+        "rank": "17",
+        "title": "다정히내이름을부르면",
+        "singer": "경서예지 & 전건호",
+        "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "에버그로우"
+      },
+      {
+        "rank": "18",
+        "title": "호랑수월가",
+        "singer": "탑현",
+        "album": "호랑수월가",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "탑현월드"
+      },
+      {
+        "rank": "19",
+        "title": "언제나사랑해",
+        "singer": "케이시 (Kassy)",
+        "album": "조영수 리메이크 프로젝트 Part.2",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "도토리뮤직"
+      },
+      {
+        "rank": "20",
+        "title": "RUN2U",
+        "singer": "STAYC (스테이씨)",
+        "album": "YOUNG-LUV.COM",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "HIGHUP ENTERTAINMENT"
+      },
+      {
+        "rank": "21",
+        "title": "너,너(N번째연애X휘인(WheeIn))",
+        "singer": "휘인 (Whee In)",
+        "album": "너, 너 (N번째 연애 X 휘인 (Whee In))",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "TOON STUDIO"
+      },
+      {
+        "rank": "22",
+        "title": "잊을수있을까",
+        "singer": "노을",
+        "album": "이별을 말하는",
+        "publishing": "워너뮤직",
+        "agency": "말하는"
+      },
+      {
+        "rank": "23",
+        "title": "ELEVEN",
+        "singer": "IVE (아이브)",
+        "album": "ELEVEN",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "스타쉽 엔터테인먼트"
+      },
+      {
+        "rank": "24",
+        "title": "회전목마(Feat.Zion.T&원슈타인)(Prod.bySlom)",
+        "singer": "sokodomo",
+        "album": "쇼미더머니 10 Episode 2",
+        "publishing": "지니뮤직",
+        "agency": "Stone Music Entertainment"
+      },
+      {
+        "rank": "25",
+        "title": "직진(JIKJIN)",
+        "singer": "TREASURE (트레저)",
+        "album": "THE SECOND STEP : CHAPTER ONE",
+        "publishing": "YG PLUS",
+        "agency": "YG Entertainment"
+      },
+      {
+        "rank": "26",
+        "title": "서랍",
+        "singer": "10CM",
+        "album": "그 해 우리는 OST Part.1",
+        "publishing": "NHN벅스",
+        "agency": "모스트콘텐츠"
+      },
+      {
+        "rank": "27",
+        "title": "눈이오잖아(Feat.헤이즈)",
+        "singer": "이무진",
+        "album": "눈이 오잖아",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "쇼플레이엔터테인먼트"
+      },
+      {
+        "rank": "28",
+        "title": "StepBack",
+        "singer": "GOT the beat",
+        "album": "Step Back",
+        "publishing": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "rank": "29",
+        "title": "만개(Prod.신지후)",
+        "singer": "김호중",
+        "album": "우리家",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "생각을보여주는엔터테인먼트"
+      },
+      {
+        "rank": "30",
+        "title": "리무진(Feat.MINO)(Prod.byGRAY)",
+        "singer": "BE'O (비오)",
+        "album": "쇼미더머니 10 Episode 3",
+        "publishing": "지니뮤직",
+        "agency": "Stone Music Entertainment"
+      },
+      {
+        "rank": "31",
+        "title": "나보다더사랑해요",
+        "singer": "김호중",
+        "album": "나보다 더 사랑해요",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "생각을보여주는엔터테인먼트"
+      },
+      {
+        "rank": "32",
+        "title": "그래서그래(Feat.윤하)",
+        "singer": "에픽하이 (EPIK HIGH)",
+        "album": "Epik High Is Here 下",
+        "publishing": "지니뮤직",
+        "agency": "(주)아워즈"
+      },
+      {
+        "rank": "33",
+        "title": "SMILEY(Feat.BIBI)",
+        "singer": "YENA (최예나)",
+        "album": "SMiLEY",
+        "publishing": "지니뮤직, Stone Music Entertainment",
+        "agency": "위에화엔터테인먼트코리아"
+      },
+      {
+        "rank": "34",
+        "title": "Stay",
+        "singer": "The Kid LAROI & Justin Bieber",
+        "album": "Stay",
+        "publishing": "Sony Music",
+        "agency": "Columbia"
+      },
+      {
+        "rank": "35",
+        "title": "살았소",
+        "singer": "김호중",
+        "album": "살았소",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "생각을보여주는엔터테인먼트, 제이지스타"
+      },
+      {
+        "rank": "36",
+        "title": "Stronger(WhatDoesn'tKillYou)",
+        "singer": "Kelly Clarkson",
+        "album": "Stronger (What Doesn't Kill You) (Digital Audio Bundle)",
+        "publishing": "Sony Music",
+        "agency": ""
+      },
+      {
+        "rank": "37",
+        "title": "봄이피어나",
+        "singer": "비투비",
+        "album": "Be Together",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "rank": "38",
+        "title": "고맙소",
+        "singer": "김호중",
+        "album": "내일은 미스터트롯 결승전 베스트",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN, ㈜쇼플레이"
+      },
+      {
+        "rank": "39",
+        "title": "새벽을믿지말자",
+        "singer": "개코 & 다비치",
+        "album": "새벽을 믿지 말자",
+        "publishing": "지니뮤직",
+        "agency": "(주)엔씨소프트"
+      },
+      {
+        "rank": "40",
+        "title": "CountingStars(Feat.Beenzino)",
+        "singer": "BE'O (비오)",
+        "album": "Counting Stars",
+        "publishing": "지니뮤직, Stone Music Entertainment",
+        "agency": "페임어스 엔터테인먼트"
+      },
+      {
+        "rank": "41",
+        "title": "신호등",
+        "singer": "이무진",
+        "album": "신호등",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "쇼플레이엔터테인먼트"
+      },
+      {
+        "rank": "42",
+        "title": "우산이없어요",
+        "singer": "김호중",
+        "album": "우리家",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "생각을보여주는엔터테인먼트"
+      },
+      {
+        "rank": "43",
+        "title": "퇴근길",
+        "singer": "김호중",
+        "album": "우리家",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "생각을보여주는엔터테인먼트"
+      },
+      {
+        "rank": "44",
+        "title": "겨울잠",
+        "singer": "아이유 (IU)",
+        "album": "조각집",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "EDAM엔터테인먼트"
+      },
+      {
+        "rank": "45",
+        "title": "아무도잠들지마라(NessunDorma)",
+        "singer": "김호중",
+        "album": "The Classic Album",
+        "publishing": "워너뮤직",
+        "agency": "워너뮤직코리아"
+      },
+      {
+        "rank": "46",
+        "title": "그리워하다",
+        "singer": "비투비",
+        "album": "Brother Act.",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "rank": "47",
+        "title": "우리(BeTogether)",
+        "singer": "비투비",
+        "album": "Be Together",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "rank": "48",
+        "title": "strawberrymoon",
+        "singer": "아이유 (IU)",
+        "album": "strawberry moon",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "EDAM엔터테인먼트"
+      },
+      {
+        "rank": "49",
+        "title": "나만의길(MyWay)",
+        "singer": "김호중",
+        "album": "우리家",
+        "publishing": "카카오엔터테인먼트",
+        "agency": "생각을보여주는엔터테인먼트"
+      },
+      {
+        "rank": "50",
+        "title": "OHAYOMYNIGHT",
+        "singer": "디핵 (D-Hack) & PATEKO",
+        "album": "OHAYO MY NIGHT",
+        "publishing": "YG PLUS",
+        "agency": "NEOKIDZ"
+      }
+    ]
+  ]
+}

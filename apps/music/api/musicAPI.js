@@ -1,24 +1,53 @@
 'use strict';
+// require한 것의 상수는 처음을 대문자로 하여 이후 객체 만든것을 좀 더 편하게 사용
+const MusicAPIService = require("./musicAPIService");
 
-exports.test = async (req, res) => {
+exports.getMusicDetail = async (req, res) => {
     try {
-        console.log("test");
-        res.send("xxx");
+        const musicAPIService = new MusicAPIService();
+        const result= await musicAPIService.getMusicDetail(req.params.vendor, req.params.rank);
+
         res.status(200);
-
-        // const itemAPIService = new ItemAPIService();
-
-        // //프리뷰 상태 확인 및 처리
-        // const reviewItem = await itemAPIService.getPreviewItem()
-
-        // //미디어 정보 전송
-        // res.status(200);
-        // return res.json(reviewItem);
+        return res.json(result);
     }
     catch (err){
+        console.log(err);
         // Logger.error(err);
         // res.status(400);
         // return res.json(err);
     }
 };
+
+exports.getMusicRankList = async (req, res) => {
+    try {
+        const musicAPIService = new MusicAPIService();
+        const results= await musicAPIService.getMusicRankList(req.params.vendor);
+
+        res.status(200);
+        return res.json(results);
+    }
+    catch (err){
+        console.log(err);
+        // Logger.error(err);
+        // res.status(400);
+        // return res.json(err);
+    }
+};
+
+exports.getMusicRankDetailList = async (req, res) => {
+    try {
+        const musicAPIService = new MusicAPIService();
+        const results= await musicAPIService.getMusicRankDetailList(req.params.vendor);
+
+        res.status(200);
+        return res.json(results);
+    }
+    catch (err){
+        console.log(err);
+        // Logger.error(err);
+        // res.status(400);
+        // return res.json(err);
+    }
+};
+
 
