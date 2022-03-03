@@ -1,0 +1,30 @@
+{
+  "name": "music-rank",
+  "version": "1.0.0",
+  "description": "music-rank crawling site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstsnow812/music-rank.git"
+  },
+  "keywords": [
+    "music",
+    "crawling"
+  ],
+  "author": "somniumd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firstsnow812/music-rank/issues"
+  },
+  "homepage": "https://github.com/firstsnow812/music-rank#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "lowdb": "^1.0.0",
+    "winston": "^3.6.0"
+  }
+}
