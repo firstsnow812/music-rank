@@ -1,0 +1,341 @@
+2022-03-04 12:06:33 error: uncaughtException: Invalid regular expression flags
+D:\roy-git\music-rank\apps\music\api\musicAPI.js:6
+const logger = require(appRoot + /config/winston);
+                                 ^
+
+SyntaxError: Invalid regular expression flags
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\api\index.js:5:18)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-04 12:07:47 error: uncaughtException: Invalid regular expression flags
+D:\roy-git\music-rank\apps\music\api\musicAPI.js:6
+const logger = require(appRoot + /config/winston);
+                                 ^
+
+SyntaxError: Invalid regular expression flags
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\api\index.js:5:18)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-04 12:18:58 error: uncaughtException: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+Error: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\app.js:11:24)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-04 12:19:46 error: uncaughtException: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+Error: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\app.js:11:24)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-04 12:20:55 error: uncaughtException: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+Error: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\app.js:11:24)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-04 12:21:16 error: uncaughtException: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+Error: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\app.js:11:24)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-04 12:22:04 error: uncaughtException: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+Error: Cannot find module 'D:\roy-git\music-rank/music/api/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\app.js:11:24)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-04 12:25:46 error: uncaughtException: Cannot find module 'D:\roy-git\music-rankapps/music/batch/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+Error: Cannot find module 'D:\roy-git\music-rankapps/music/batch/index'
+Require stack:
+- D:\roy-git\music-rank\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\app.js:14:26)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-04 12:26:51 error: uncaughtException: Cannot access 'musicApiRouter' before initialization
+ReferenceError: Cannot access 'musicApiRouter' before initialization
+    at Object.<anonymous> (D:\roy-git\music-rank\app.js:11:25)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-04 12:28:14 error: uncaughtException: require(...) is not a function
+TypeError: require(...) is not a function
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\api\musicAPI.js:6:52)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\api\index.js:5:18)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-04 17:48:14 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15
+    at next (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:174:3)
+    at Server.router (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:47:12)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+2022-03-04 17:49:40 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15
+    at next (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:174:3)
+    at Server.router (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:47:12)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+2022-03-04 17:50:06 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15
+    at next (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:174:3)
+    at Server.router (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:47:12)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+2022-03-04 17:50:36 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15
+    at next (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:174:3)
+    at Server.router (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:47:12)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+2022-03-04 18:11:00 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:12:48 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:13:06 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:14:44 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:14:54 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:16:47 error: uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\api\index.js:16:18)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\app.js:10:24)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-04 18:17:21 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:20:24 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:21:17 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:27:53 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:28:19 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:28:39 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 18:28:51 error: uncaughtException: Cannot read property 'apply' of undefined
+TypeError: Cannot read property 'apply' of undefined
+    at Immediate.<anonymous> (D:\roy-git\music-rank\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (internal/timers.js:463:21)
+2022-03-04 19:05:48 error: uncaughtException: missing ) after argument list
+D:\roy-git\music-rank\apps\music\batch\musicBatchService.js:50
+      resolve(await axios.get(url));
+              ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\batch\musicBatch.js:4:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-04 19:06:17 error: uncaughtException: missing ) after argument list
+D:\roy-git\music-rank\apps\music\batch\musicBatchService.js:50
+      resolve(await axios.get(url));
+              ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\batch\musicBatch.js:4:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-04 19:06:33 error: uncaughtException: missing ) after argument list
+D:\roy-git\music-rank\apps\music\batch\musicBatchService.js:50
+      resolve(await axios.get(url));
+              ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\batch\musicBatch.js:4:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-04 19:10:31 error: uncaughtException: missing ) after argument list
+D:\roy-git\music-rank\apps\music\batch\musicBatchService.js:50
+      resolve(await axios.get(url));
+              ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\batch\musicBatch.js:4:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-04 19:10:48 error: uncaughtException: missing ) after argument list
+D:\roy-git\music-rank\apps\music\batch\musicBatchService.js:50
+      resolve(await axios.get(url));
+              ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\batch\musicBatch.js:4:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-04 19:12:13 error: uncaughtException: missing ) after argument list
+D:\roy-git\music-rank\apps\music\batch\musicBatchService.js:50
+      resolve(await axios.get(url));
+              ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\roy-git\music-rank\apps\music\batch\musicBatch.js:4:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)

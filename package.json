@@ -2,9 +2,9 @@
   "name": "music-rank",
   "version": "1.0.0",
   "description": "music-rank crawling site",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/firstsnow812/music-rank#readme",
   "dependencies": {
+    "app-root-path": "^3.0.0",
     "axios": "^0.26.0",
     "cheerio": "^1.0.0-rc.10",
     "express": "^4.17.3",
@@ -30,6 +31,13 @@
     "lowdb": "^1.0.0",
     "node-cron": "^3.0.0",
     "request": "^2.88.2",
-    "winston": "^3.6.0"
+    "winston": "^3.6.0",
+    "winston-daily-rotate-file": "^4.6.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.2.1",
+    "supertest": "^6.2.2"
   }
 }

@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\roy-git\\music-rank\\logs\\.5563c6c8418da23b26700472a16fe2e6832082cf-audit.json",
+    "files": [
+        {
+            "date": 1646360270227,
+            "name": "D:\\roy-git\\music-rank\\logs\\2022-03-04.error.log",
+            "hash": "e9e38a3de7e8e6f5909bb0d56c61ff8a"
+        }
+    ],
+    "hashType": "md5"
+}

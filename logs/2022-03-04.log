@@ -1,0 +1,107 @@
+2022-03-04 11:17:50 [undefined] info: Server listening on port 3000
+2022-03-04 11:31:51 info: Server listening on port 3000
+2022-03-04 12:22:44 info: Server listening on port 3000
+2022-03-04 12:24:04 info: Server listening on port 3000
+2022-03-04 12:24:41 info: test
+2022-03-04 12:26:28 info: Server listening on port 3000
+2022-03-04 12:27:07 info: Server listening on port 3000
+2022-03-04 13:29:15 info: Server listening on port 3000
+2022-03-04 13:32:01 info: Server listening on port 3000
+2022-03-04 13:32:44 info: Server listening on port 3000
+2022-03-04 13:32:47 error: musicAPIService.getMusicDetailss is not a function
+2022-03-04 13:55:20 info: Server listening on port 3000
+2022-03-04 13:55:26 error: ReferenceError: fileSyncaa is not defined
+2022-03-04 14:57:14 info: Server listening on port 3000
+2022-03-04 14:57:22 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 14:57:39 info: Server listening on port 3000
+2022-03-04 14:57:41 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 15:01:10 info: Server listening on port 3000
+2022-03-04 15:01:13 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 15:06:51 info: Server listening on port 3000
+2022-03-04 15:06:53 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 15:07:09 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 15:08:07 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 15:08:31 info: Server listening on port 3000
+2022-03-04 15:08:33 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 15:08:41 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 15:08:47 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 15:09:10 info: Server listening on port 3000
+2022-03-04 15:09:12 error: Error: function:getMusicDetail, 필수 인자가 잘못됨
+2022-03-04 15:28:24 info: Server listening on port 3000
+2022-03-04 15:34:37 info: Server listening on port 3000
+2022-03-04 15:35:22 info: Server listening on port 3000
+2022-03-04 16:14:32 info: Server listening on port 3000
+2022-03-04 16:15:00 info: melon crawling 시작 호출 횟수-> 1
+2022-03-04 16:15:00 info: genie crawling 시작 호출 횟수-> 1
+2022-03-04 16:15:00 info: vibe crawling 성공
+2022-03-04 16:15:00 info: genie crawling 성공
+2022-03-04 16:15:01 info: melon crawling 성공
+2022-03-04 16:17:37 info: Server listening on port 3000
+2022-03-04 16:18:00 info: melon crawling 시작 호출 횟수-> 1
+2022-03-04 16:18:00 info: genie crawling 시작 호출 횟수-> 1
+2022-03-04 16:18:00 info: vibe crawling 시작 호출 횟수-> 1
+2022-03-04 16:18:00 info: vibe crawling 성공
+2022-03-04 16:18:00 info: melon crawling 성공
+2022-03-04 16:18:01 info: genie crawling 성공
+2022-03-04 16:19:00 info: melon crawling 시작 호출 횟수-> 2
+2022-03-04 16:19:00 info: genie crawling 시작 호출 횟수-> 2
+2022-03-04 16:19:00 info: vibe crawling 시작 호출 횟수-> 2
+2022-03-04 16:19:00 info: vibe crawling 성공
+2022-03-04 16:19:00 info: genie crawling 성공
+2022-03-04 16:19:01 info: melon crawling 성공
+2022-03-04 16:22:40 info: Server listening on port 3000
+2022-03-04 16:23:21 info: Server listening on port 3000
+2022-03-04 16:27:19 info: Server listening on port 3000
+2022-03-04 17:50:30 info: Server listening on port 3000
+2022-03-04 17:51:06 error: res.status is not a function
+2022-03-04 17:53:17 error: res.status is not a function
+2022-03-04 17:56:47 error: res.status is not a function
+2022-03-04 18:02:04 error: res.status is not a function
+2022-03-04 18:03:46 info: Server listening on port 3000
+2022-03-04 18:04:01 error: err is not defined
+2022-03-04 18:07:52 info: Server listening on port 3000
+2022-03-04 18:07:56 error: res.status is not a function
+2022-03-04 18:09:47 error: res.status is not a function
+2022-03-04 18:10:53 info: Server listening on port 3000
+2022-03-04 18:11:00 error: res.status is not a function
+2022-03-04 18:12:43 info: Server listening on port 3000
+2022-03-04 18:12:48 error: res.status is not a function
+2022-03-04 18:13:06 error: res.status is not a function
+2022-03-04 18:14:44 error: res.status is not a function
+2022-03-04 18:14:54 error: res.status is not a function
+2022-03-04 18:17:16 info: Server listening on port 3000
+2022-03-04 18:17:21 error: res.status is not a function
+2022-03-04 18:20:12 info: Server listening on port 3000
+2022-03-04 18:20:24 error: res.status is not a function
+2022-03-04 18:21:10 info: Server listening on port 3000
+2022-03-04 18:21:17 error: res.status is not a function
+2022-03-04 18:22:28 info: Server listening on port 3000
+2022-03-04 18:27:53 error: res.status is not a function
+2022-03-04 18:28:18 error: res.status is not a function
+2022-03-04 18:28:39 error: res.status is not a function
+2022-03-04 18:28:46 info: Server listening on port 3000
+2022-03-04 18:28:50 error: res.status is not a function
+2022-03-04 18:35:11 info: Server listening on port 3000
+2022-03-04 18:41:11 info: Server listening on port 3000
+2022-03-04 18:42:55 info: Server listening on port 3000
+2022-03-04 18:43:09 info: Server listening on port 3000
+2022-03-04 18:43:11 error: Numberaa is not defined
+2022-03-04 18:44:00 info: Server listening on port 3000
+2022-03-04 18:44:01 error: Numberaa is not defined
+2022-03-04 18:44:58 info: Server listening on port 3000
+2022-03-04 18:46:39 info: Server listening on port 3000
+2022-03-04 18:47:24 info: Server listening on port 3000
+2022-03-04 19:11:40 info: Server listening on port 3000
+2022-03-04 19:12:25 info: Server listening on port 3000
+2022-03-04 19:12:32 info: Server listening on port 3000
+2022-03-04 19:13:05 info: Server listening on port 3000
+2022-03-04 19:14:29 info: Server listening on port 3000
+2022-03-04 19:15:00 info: melon crawling 시작 호출 횟수-> 1
+2022-03-04 19:15:01 info: melon crawling 성공
+2022-03-04 19:18:10 info: Server listening on port 3000
+2022-03-04 19:22:52 info: Server listening on port 3000
+2022-03-04 19:25:35 info: Server listening on port 3000
+2022-03-04 19:26:00 info: melon crawling 시작 호출 횟수-> 1
+2022-03-04 19:26:25 info: melon crawling 성공
+2022-03-04 19:27:00 info: Server listening on port 3000
+2022-03-04 19:27:09 error: function:getMusicRankList, 필수 인자가 잘못됨
