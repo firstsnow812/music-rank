@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\roy-git\\music-rank\\logs\\.f6d7ebf563b87c1ca33073be2a28edc37185b64e-audit.json",
+    "files": [
+        {
+            "date": 1647655456572,
+            "name": "C:\\roy-git\\music-rank\\logs\\2022-03-19.exception.log",
+            "hash": "3445ad9299ec66e6bd71b29298c35502"
+        },
+        {
+            "date": 1649474730838,
+            "name": "C:\\roy-git\\music-rank\\logs\\2022-04-09.exception.log",
+            "hash": "9a16d3b89678d2ade0b5f96c8e2e991e"
+        }
+    ],
+    "hashType": "md5"
+}
