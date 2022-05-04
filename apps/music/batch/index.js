@@ -11,6 +11,8 @@ let melonCrawlCnt = 0;
 let genieCrawlCnt = 0;
 let vibeCrawlCnt = 0;
 
+// 파일명(db), 그 안에 table명 이런식이니까....... 그냥 cron 도 새로 돌리긴 해야될듯
+
 // 멜론
 // cron.schedule("*/10 * * * *", async () => {
 //     melonCrawlCnt++;

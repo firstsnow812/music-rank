@@ -1,4 +1,4 @@
-<-- header 추가 해야됨 -->
+<-- header 추가 해야됨, 테이블은 뭐 페이징으로 넣자 -->
 <html>
   <head>
     <link
@@ -12,13 +12,111 @@
       integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
       crossorigin="anonymous"
     ></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   </head>
   <body>
     <select class="form-select" aria-label="Default select example">
+      <!-- 사이트 리스트도 가져 와야 될듯 -->
       <option selected>음악 사이트 선택</option>
-      <option value="1">멜론</option>
-      <option value="2">지니</option>
-      <option value="3">바이브</option>
+      <option value="melon">멜론</option>
+      <option value="genie">지니</option>
+      <option value="vibe">바이브</option>
     </select>
   </body>
+  <!-- db에서 불러와서 넣는 식으로 변경?? -->
+  <div class="list-group">
+    <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true" onclick="chartList('melon')">
+      <img src="https://cdnimg.melon.co.kr/resource/image/web/common/logo_melon142x99.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+      <div class="d-flex gap-2 w-100 justify-content-between">
+        <div>
+          <h6 class="mb-0">멜론</h6>
+          <p class="mb-0 opacity-75">멜론 음원차트 TOP100</p>
+        </div>
+        <small class="opacity-50 text-nowrap">now</small>
+      </div>
+    </a>
+    <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true" onclick="chartList('genie')">
+      <img src="https://github.com/twbs.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+      <div class="d-flex gap-2 w-100 justify-content-between">
+        <div>
+          <h6 class="mb-0">지니</h6>
+          <p class="mb-0 opacity-75">Some placeholder content in a paragraph that goes a little longer so it wraps to a new line.</p>
+        </div>
+        <small class="opacity-50 text-nowrap">3d</small>
+      </div>
+    </a>
+    <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true" onclick="chartList('vibe')">
+      <img src="https://github.com/twbs.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+      <div class="d-flex gap-2 w-100 justify-content-between">
+        <div>
+          <h6 class="mb-0">바이브</h6>
+          <p class="mb-0 opacity-75">파일 다운받아서 퍼블릭에 넣고 보여주기</p>
+        </div>
+        <small class="opacity-50 text-nowrap">1w</small>
+      </div>
+    </a>
+  </div>
+
+
+  <table id="musicRankTable" class="table caption-top" style="display:none;">
+    <caption>음원 순위</caption>
+    <thead>
+      <tr>
+        <th scope="col">순위</th>
+        <th scope="col"></th>
+        <th scope="col">곡 정보</th>
+        <th scope="col">가수</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- <tr>
+        <th scope="row">1</th>
+        <td>이미지</td>
+        <td>곡 정보</td>
+        <td>가수</td>
+      </tr> -->
+    </tbody>
+  </table>
 </html>
+<script>
+  function chartList(vendor){
+    const ajaxData = {
+        url: `/music-chart/${vendor}/summary`,
+        // type: 'POST',
+        type: 'GET',
+        dataType: 'JSON',
+        cache: false
+			}
+
+    const request = $.ajax(ajaxData);
+    // 페이징 넣기
+
+    request.done(function( data, textStatus, jqXHR ){
+      console.log("data", data);
+      $("#musicRankTable").show();
+      // 기존 음악 리스트 초기화
+      $("#musicRankTable tbody").html('');
+      let html = [];
+      // 결과 값 구조 만들기
+      $.each(data[0], function(idx, item){
+        console.log("idx", idx);
+        console.log("item", item);
+
+        html.push(`<tr>`);
+          html.push(`<th scope="row">${item.rank}</th>`);
+          html.push(`<td></td>`);
+          html.push(`<td>${item.title}</td>`);
+          html.push(`<td>${item.singer}</td>`);
+          html.push(`</tr>`);
+      });
+
+      $("#musicRankTable tbody").append(html.join(''));
+
+      });
+        request.fail(function( jqXHR, textStatus, errorThrown){
+          $("#musicRankTable").hide();
+          alert('dd');
+        });
+  }
+
+</script>
